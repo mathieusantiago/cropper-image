@@ -1,0 +1,10 @@
+.box {
+    display: inline-block;
+    padding: 10px;
+    padding-top: 0px;
+    box-sizing: border-box;
+  }
+
+.form-control{
+    width: 400px !important;
+}
